@@ -1,0 +1,8 @@
+C:\Users\Олександр\source\repos\MyStl\MyStl\bin\Debug\MyStl.exe.config
+C:\Users\Олександр\source\repos\MyStl\MyStl\bin\Debug\MyStl.exe
+C:\Users\Олександр\source\repos\MyStl\MyStl\bin\Debug\MyStl.pdb
+C:\Users\Олександр\source\repos\MyStl\MyStl\obj\Debug\MyStl.csproj.AssemblyReference.cache
+C:\Users\Олександр\source\repos\MyStl\MyStl\obj\Debug\MyStl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Олександр\source\repos\MyStl\MyStl\obj\Debug\MyStl.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\source\repos\MyStl\MyStl\obj\Debug\MyStl.exe
+C:\Users\Олександр\source\repos\MyStl\MyStl\obj\Debug\MyStl.pdb
